@@ -72,6 +72,9 @@ smart-parking-detection/
 
 <h2>📸 Screenshots</h2>
 
+<img width="1862" height="935" alt="image" src="https://github.com/user-attachments/assets/98359b13-65c0-498b-87bf-a15b35b9fb8d" />
+
+
 <img src="./screenshots/parking.png" width="800"/>
 
 <br><br>
