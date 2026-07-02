@@ -70,5 +70,10 @@ smart-parking-detection/
 ### Home Page
 ![Home Page](screenshots/parking.png)
 
-### Parking Detection
-![Parking Detection](screenshots/parking2.png)
+<h2>📸 Screenshots</h2>
+
+<img src="./screenshots/parking.png" width="800"/>
+
+<br><br>
+
+<img src="./screenshots/parking2.png" width="800"/>
