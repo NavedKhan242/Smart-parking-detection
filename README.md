@@ -65,4 +65,10 @@ smart-parking-detection/
 
 ## Live Parking Detection
 
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/parking.png)
+
+### Parking Detection
 ![Parking Detection](screenshots/parking2.png)
